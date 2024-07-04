@@ -1,4 +1,4 @@
-# car-sales-dashboard
+# Car Sales Dashboard
 ## Project Description
 This Tableau project focuses on visualizing dynamic KPIs and charts with the help of filters to understand car sales performance over time and support data-driven decision-making.
 These KPIs and data visualizations assist in monitoring performance and identifying trends and growth opportunities for a car dealership company.
